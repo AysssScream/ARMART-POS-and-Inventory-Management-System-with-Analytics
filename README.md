@@ -30,43 +30,43 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
   <table border="0" width="100%">
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width="60" height="60">
         <h3>👥 User Account Administration</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-e05e6f7c5519.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="60" height="60">
         <h3>📋 Master List Management</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="60" height="60">
         <h3>📊 Real-Time Analytics</h3>
       </td>
     </tr>
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216124642-6fe3795d-5ee9-4dc9-8b83-bd221f1d2c35.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="60" height="60">
         <h3>🔍 Advanced Search & Filtering</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.190/216124690-9afd5b9f-6817-4876-b865-95a45ea913c4.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="60" height="60">
         <h3>⌨️ Keyboard Shortcuts</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216124716-2e04d759-28c1-4f6d-b77c-217b6d204754.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="60" height="60">
         <h3>📄 File Export & Reports</h3>
       </td>
     </tr>
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216128356-c5252242-6263-4f43-bd3e-56c798f8ac05.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="60" height="60">
         <h3>💻 Offline Mode Support</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216128375-692d2042-f2f8-4a24-be4c-546e36934751.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="60" height="60">
         <h3>🔔 Stock Re-Order Alerts</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://user-images.githubusercontent.com/74038190/216128394-52f98ccd-3226-4e3c-b071-c56746e99a58.png" width="60" height="60">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="60" height="60">
         <h3>📦 Supplier Management</h3>
       </td>
     </tr>
