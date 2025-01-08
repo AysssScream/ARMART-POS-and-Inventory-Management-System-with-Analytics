@@ -108,35 +108,36 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
   <table>
     <tr>
       <td align="center">
-        <kbd><img src="https://github.com/user-attachments/assets/c4ce3314-cf70-48b6-89f3-f13f84fbb281" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/c4ce3314-cf70-48b6-89f3-f13f84fbb281" width="1000"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <kbd><img src="https://github.com/user-attachments/assets/d10e68fb-7343-4805-a5d4-c8f2d09797cf" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/d10e68fb-7343-4805-a5d4-c8f2d09797cf" width="1000"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <kbd><img src="https://github.com/user-attachments/assets/38adb9c4-e4a6-4a6a-b965-f53a3a17491a" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/38adb9c4-e4a6-4a6a-b965-f53a3a17491a" width="1000"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <kbd><img src="https://github.com/user-attachments/assets/30bd82cc-e14c-4161-9c0c-b02efcfd215f" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/30bd82cc-e14c-4161-9c0c-b02efcfd215f" width="1000"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <kbd><img src="https://github.com/user-attachments/assets/f82921de-c7d6-46ba-b7dc-0b9f2c6a3d15" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/f82921de-c7d6-46ba-b7dc-0b9f2c6a3d15" width="1000"/></kbd>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 📅 Development Strategy
@@ -200,7 +201,7 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E2954&height=120&section=header&animation=fadeIn" width="100%"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=0E2954&center=true&vCenter=true&width=600&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Digital+Elev8" alt="Footer Text"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&pause=1000&color=0E2954&center=true&vCenter=true&width=400&lines=©+2023+ARMART+POS.+All+Rights+Reserved." alt="Copyright Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&pause=1000&color=0E2954&center=true&vCenter=true&width=400&lines=©+2024+ARMART+POS.+All+Rights+Reserved." alt="Copyright Text"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E2954&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
