@@ -30,48 +30,49 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
   <table border="0" width="100%">
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Users" width="60" height="60"/>
         <h3>👥 User Account Administration</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Master List" width="60" height="60"/>
         <h3>📋 Master List Management</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="60" height="60"/>
         <h3>📊 Real-Time Analytics</h3>
       </td>
     </tr>
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="60" height="60"/>
         <h3>🔍 Advanced Search & Filtering</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="60" height="60"/>
         <h3>⌨️ Keyboard Shortcuts</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Reports" width="60" height="60"/>
         <h3>📄 File Export & Reports</h3>
       </td>
     </tr>
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Offline" width="60" height="60"/>
         <h3>💻 Offline Mode Support</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Alert" width="60" height="60"/>
         <h3>🔔 Stock Re-Order Alerts</h3>
       </td>
       <td align="center" width="33.33%">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Supplier" width="60" height="60"/>
         <h3>📦 Supplier Management</h3>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🛠 Tech Stack
