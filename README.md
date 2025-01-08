@@ -108,40 +108,36 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
   <table>
     <tr>
       <td align="center">
-        <h3>Login Interface</h3>
-        <kbd><img src="your-login-screenshot.png" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/c4ce3314-cf70-48b6-89f3-f13f84fbb281" width="800"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <h3>Dashboard with Analytics</h3>
-        <kbd><img src="your-dashboard-screenshot.png" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/d10e68fb-7343-4805-a5d4-c8f2d09797cf" width="800"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <h3>Point of Sale Interface</h3>
-        <kbd><img src="your-pos-screenshot.png" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/38adb9c4-e4a6-4a6a-b965-f53a3a17491a" width="800"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <h3>Inventory Management</h3>
-        <kbd><img src="your-inventory-screenshot.png" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/30bd82cc-e14c-4161-9c0c-b02efcfd215f" width="800"/></kbd>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <h3>Master List Management</h3>
-        <kbd><img src="your-masterlist-screenshot.png" width="800"/></kbd>
+        <kbd><img src="https://github.com/user-attachments/assets/f82921de-c7d6-46ba-b7dc-0b9f2c6a3d15" width="800"/></kbd>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 📅 Development Strategy
 
@@ -150,62 +146,64 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100">
-        <h3>📍 Phase 1: Project Initialization</h3>
-        <p><b>Initial Planning</b></p>
+        <h3>📍 Phase 1: Requirements Gathering</h3>
+        <p><b>Initial Stage</b></p>
         <ul align="left" style="list-style-position: inside; padding: 20px;">
-          <li>Team JOMAJEJO formation</li>
-          <li>Project scope definition</li>
-          <li>Requirements gathering from ARMART</li>
+          <li>Team Digital Elev8 formation</li>
+          <li>ARMART store requirements analysis</li>
+          <li>System scope definition</li>
         </ul>
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-        <h3>🎨 Phase 2: Design & Planning</h3>
-        <p><b>System Architecture</b></p>
+        <h3>🎨 Phase 2: System Design</h3>
+        <p><b>Planning Stage</b></p>
         <ul align="left" style="list-style-position: inside; padding: 20px;">
-          <li>Interface design based on client preferences</li>
-          <li>Database schema development</li>
-          <li>System workflow planning</li>
+          <li>Data Flow Diagram creation</li>
+          <li>Entity Relationship Diagram design</li>
+          <li>User interface prototyping</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
-        <h3>⚙️ Phase 3: Core Development</h3>
-        <p><b>System Implementation</b></p>
+        <h3>⚙️ Phase 3: Implementation</h3>
+        <p><b>Development Stage</b></p>
         <ul align="left" style="list-style-position: inside; padding: 20px;">
-          <li>VB.NET development</li>
+          <li>Visual Basic .NET development</li>
           <li>MySQL database integration</li>
-          <li>Core features implementation</li>
+          <li>Authentication system setup</li>
         </ul>
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100">
-        <h3>🚀 Phase 4: Finalization</h3>
-        <p><b>Testing & Deployment</b></p>
+        <h3>🚀 Phase 4: Deployment</h3>
+        <p><b>Final Stage</b></p>
         <ul align="left" style="list-style-position: inside; padding: 20px;">
-          <li>System testing and optimization</li>
-          <li>User training materials</li>
-          <li>Final deployment at ARMART</li>
+          <li>System testing and validation</li>
+          <li>User training documentation</li>
+          <li>Deployment at ARMART store</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
+
 <br>
 <div align="center">
   <!-- Decorative Separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Footer -->
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E2954&height=120&section=header&animation=fadeIn" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=0E2954&center=true&vCenter=true&width=600&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+JOMAJEJO" alt="Footer Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=0E2954&center=true&vCenter=true&width=600&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Digital+Elev8" alt="Footer Text"/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&pause=1000&color=0E2954&center=true&vCenter=true&width=400&lines=©+2023+ARMART+POS.+All+Rights+Reserved." alt="Copyright Text"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E2954&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 
 <!-- Final Separator -->
 <div align="center">
