@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="sg__transaction_ledger_inventories.ColumnDefinitionInfo" xml:space="preserve">
+    <value>|Key	|Caption		|FieldName			|Width		|Return Textbox	|DataFormat	|Value Source	|Output Field	|Default Value
+@	|PK			|PK_LdgrInvty			|0		|		|		|		|		|
+@	|FK			|FK_TransH_LdgrInvty		|0		|		|		|		|		|
+@	|FK_Invty		|FK_Invty_LdgrInvty		|0		|		|		|		|		|
+@	|Conversion		|UnitConversion_LdgrInvty	|0		|		|		|		|		|1
+@	|Module			|Module_LdgrInvty		|0		|		|		|		|		|OUT
+@	|Item			|Description_Invty		|250		|		|		|picklist:PickProducts|		|
+@	|qty			|QtyOut_LdgrInvty		|100		|		|n2		|		|		|
+@	|UOM			|UOM_LdgrInvty			|100		|		|		|picklist:PickUnits|		|
+@	|Stock Cost		|Rate_LdgrInvty			|0		|		|n2		|		|		|
+@	|Cost			|Cost_LdgrInvty			|100		|		|n2		|		|		|expr:([Rate_LdgrInvty] / [UnitConversion_LdgrInvty])
+@	|Total Amount		|TotalAmount_LdgrInvty		|100		|		|n2		|Total		|		|expr:([QtyOut_LdgrInvty]*[Cost_LdgrInvty])</value>
+  </data>
+  <data name="sg__transaction_ledger_entries.ColumnDefinitionInfo" xml:space="preserve">
+    <value>|Key	|Caption		|FieldName			|Width		|Return Textbox	|DataFormat	|Value Source	|Output Field	|Default Value
+@	|PK			|PK_LdgrEntries			|0		|		|		|		|		|
+@	|FK			|FK_TransH_LdgrEntries		|0		|		|		|		|		|
+@	|FK_SL			|FK_LdgrEntriesSL_LdgrEntries	|0		|		|		|		|		|
+@	|FK_COA			|FK_COA_LdgrEntries		|0		|		|		|		|		|
+@	|FK_UM			|FK_UM_LdgrEntries		|0		|		|		|		|		|
+@	|Module			|Module_LdgrEntries		|0		|		|		|		|		|GENENTRY
+@	|Account Code		|AccountCode_COA		|100-		|		|		|		|		|
+@	|Account Title		|Title_COA			|150-		|		|		|		|		|
+@	|Debit			|DRAmount_LdgrEntries		|100-		|		|n2		|Total		|		|
+@	|Credit			|CRAmount_LdgrEntries		|100-		|		|n2		|Total		|		|
+@	|Date			|Date_LdgrEntries		|0-		|		|d		|		|		|</value>
+  </data>
+  <data name="PickUnits._PickColumnsInfo" xml:space="preserve">
+    <value>PickUnits
+
+|key	|caption	|fieldname		|width		|return textbox	|dataformat	|input source	|output field	|default value
+@	|pk		|pk_invtyu		|0		|		|		|		|		|
+@	|unit		|unit_invtyu		|120-		|		|		|		|UOM_LdgrInvty	|
+@	|Multiplier	|Conversion_InvtyU	|10-		|		|		|		|UnitConversion_LdgrInvty|</value>
+  </data>
+  <data name="PickUnits.EditValue" xml:space="preserve">
+    <value>PickUnits
+
+|key	|caption	|fieldname		|width		|return textbox	|dataformat	|input source	|output field	|default value
+@	|pk		|pk_invtyu		|0		|		|		|		|		|
+@	|unit		|unit_invtyu		|120-		|		|		|		|UOM_LdgrInvty	|
+@	|Multiplier	|Conversion_InvtyU	|10-		|		|		|		|UnitConversion_LdgrInvty|</value>
+  </data>
+  <data name="PickProducts._PickColumnsInfo" xml:space="preserve">
+    <value>PickProducts
+
+|key	|caption	|fieldname		|width		|return textbox	|dataformat	|input source	|output field	|default value
+@	|pk		|pk_invty		|0		|		|		|		|FK_Invty_LdgrInvty|
+@	|item code	|itemcode_invty		|120-		|		|		|		|	|
+@	|description	|description_invty	|250-		|		|		|		|description_invty|
+@	|UOM		|Unit_InvtyU		|80-		|		|		|		|UOM_LdgrInvty	|
+@	|Multiplier	|Conversion_InvtyU	|10-		|		|		|		|UnitConversion_LdgrInvty|
+@	|cost		|cost_invty		|80-		|		|n2		|		|Rate_LdgrInvty		|</value>
+  </data>
+  <data name="PickProducts.EditValue" xml:space="preserve">
+    <value>PickProducts
+
+|key	|caption	|fieldname		|width		|return textbox	|dataformat	|input source	|output field	|default value
+@	|pk		|pk_invty		|0		|		|		|		|FK_Invty_LdgrInvty|
+@	|item code	|itemcode_invty		|120-		|		|		|		|	|
+@	|description	|description_invty	|250-		|		|		|		|description_invty|
+@	|UOM		|Unit_InvtyU		|80-		|		|		|		|UOM_LdgrInvty	|
+@	|Multiplier	|Conversion_InvtyU	|10-		|		|		|		|UnitConversion_LdgrInvty|
+@	|cost		|cost_invty		|80-		|		|n2		|		|Rate_LdgrInvty		|</value>
+  </data>
+  <data name="$this.SearchFormColumnDefinitionInfo" xml:space="preserve">
+    <value> |key	|caption	|fieldname		|width		|return textbox	|dataformat	|input source	|output field	|default value
+@	|pk		|pk_transh		|0		|		|		|		|		|
+@	|record #	|userpk_transh		|100-		|		|		|		|		|
+@	|date		|date_transh		|100-		|		|d		|		|		|
+@	|particulars 	|particulars_transh	|200-		|		|		|		|		|
+@	|total amount	|totalamount_transh	|200-		|		|n2		|		|		|</value>
+  </data>
+</root>
