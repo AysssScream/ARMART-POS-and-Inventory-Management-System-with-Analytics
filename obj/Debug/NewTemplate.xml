@@ -1,0 +1,500 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NewTemplate
+</name>
+</assembly>
+<members>
+<member name="T:NewTemplate.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.addcart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.arrow_left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.arrow_right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.calendar2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.calendar3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.calendar4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.combo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.combo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.combo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.edit2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.excel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.logo_system">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.save2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.search2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.toggle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NewTemplate.My.Resources.Resources.user2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:NewTemplate.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.String@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+ <param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+ <param name="attributeName">Name of the attribute that will be read.</param>
+ <param name="value">Attribute value read by this method</param>
+ <returns>True if node is found and value is retrieved successfully.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.Int32@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+ <param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+ <param name="attributeName">Name of the attribute that will be read.</param>
+ <param name="value">Attribute value read by this method</param>
+ <returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.UInt32@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+ <param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+ <param name="attributeName">Name of the attribute that will be read.</param>
+ <param name="value">Attribute value read by this method</param>
+ <returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+ <param name="node">XmlNode whose attribute will be set.</param>
+ <param name="attributeName">Name of the attribute to set.</param>
+ <param name="value">Value to be set</param>
+ <returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+ <param name="node">XmlNode whose attribute will be set.</param>
+ <param name="attributeName">Name of the attribute to set.</param>
+ <param name="value">Value to be set</param>
+ <returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.UInt32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+ <param name="node">XmlNode whose attribute will be set.</param>
+ <param name="attributeName">Name of the attribute to set.</param>
+ <param name="value">Value to be set</param>
+ <returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.GetDataTable(System.Xml.XmlNodeList@)">
+ -----------------------------------------------------------------------------
+ <summary>s 
+ Converts a list of Xml nodes to a DataTable.
+ </summary>
+ <param name="nodelist">List of Xml nodes</param>
+ <returns>DataTable</returns>
+ <remarks>
+ This method convert
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.GetDataTable(System.Xml.XmlNodeList,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Converts a list of Xml nodes to a DataTable and sets one of the columns as a primary key.
+ </summary>
+ <param name="nodelist"></param>
+ <param name="primaryKeyColumn"></param>
+ <param name="autoIncrement"></param>
+ <returns></returns>
+ <remarks>
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.UpdateChildNodesWithDataTable(System.Xml.XmlNode,System.Data.DataTable,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Updates the child nodes of "parentNode" by using the fields from a datatable.
+ </summary>
+ <param name="parentNode"></param>
+ <param name="table"></param>
+ <param name="keyField"></param>
+ <remarks>
+ The child nodes that will be updated must have attribute fields that correspond to
+ the DataTable.  The "keyField" will be used to identify the attribute that serves as 
+ an identifier of the rows.  The datatable can have less fields than the nodes so
+ you have the chance to update smaller subsets.
+ Make sure that you did not call "AcceptChanges" before passing the datatable or this
+ function will not find any change.
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.NodeToString(System.Xml.XmlNode@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Returns contents of an XmlNode in a string.
+ </summary>
+ <param name="node">The XmlNode whose contents will be read into a string.</param>
+ <returns>Xml formatted string with contents of "node" parameter.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.NodeListToString(System.Xml.XmlNodeList)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Convert a XmlNodeList to string
+ </summary>
+ <param name="nodeList"></param>
+ <returns></returns>
+ <remarks>
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.DocumentToString(System.Xml.XmlDocument@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Method to convert a XmlDocument to string.
+ </summary>
+ <param name="xmlDoc">XmlDocument that will be converted to string.</param>
+ <returns>A xml formatted string.</returns>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.CreateChildNodes(System.Xml.XmlNode@,System.String[])">
+ -----------------------------------------------------------------------------
+ <summary>
+ Converts a string array to XmlNodes and appends all those nodes to a root node.
+ </summary>
+ <param name="rootNode"></param>
+ <param name="names"></param>
+ <returns></returns>
+ <remarks>
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.CreateChildNodes(System.Xml.XmlNode@,System.String,System.String,System.String[])">
+ -----------------------------------------------------------------------------
+ <summary>
+ 
+ </summary>
+ <param name="rootNode"></param>
+ <param name="names"></param>
+ <param name="attributeName"></param>
+ <remarks>
+ </remarks>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String)">
+ <summary>
+ Inserts an empty record at the bottom of the hierarchy, creating the
+ tree as required.
+ </summary>
+ <param name="doc">The XmlDocument to which the node will be inserted.</param>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <returns>The XmlNode inserted into the hierarchy.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String[],System.String[])">
+ <summary>
+ Inserts an record with a multiple fields at the bottom of the hierarchy.
+ </summary>
+ <param name="doc">The XmlDocument to which the node will be inserted.</param>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="fields">The attribute names that will be created for the node inserted.</param>
+ <param name="values">The corresponding value of each field.</param>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String,System.String)">
+ <summary>
+ Inserts a record with a single field at the bottom of the hierarchy.
+ </summary>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="field">The field to add to the record.</param>
+ <param name="val">The value assigned to the field.</param>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.Collections.Specialized.NameValueCollection)">
+ <summary>
+ Insert a record with multiple fields at the bottom of the hierarchy.
+ </summary>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="fields">The array of fields as field/value pairs.</param>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.Data.DataRow)">
+ <summary>
+ Inserts a record with multiple fields at bottom of the hierarchy.
+ </summary>
+ <param name="doc"></param>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="rowValues">The DataRow values that will be added as attributes.</param>
+ <remarks>
+ The columns names of the DataRow will become the attribute names and 
+ the row values of the DataRow will be the attribute values.
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.Data.DataTable)">
+ <summary>
+ Inserts a record with multiple fields from a DataTable at bottom of the hierarchy.
+ </summary>
+ <param name="doc"></param>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="rowValues">The DataRow values that will be added as attributes.</param>
+</member>
+<member name="M:NewTemplate.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String,System.String[])">
+ <summary>
+ Inserts a record with multiple values at bottom of hierarchy. This is analogous to inserting 
+ a column of data.
+ </summary>
+ <param name="doc"></param>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <param name="field">Name of the attribute to be created at node inserted.</param>
+ <param name="values">Values that will be inserted that correspond to the field name.</param>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Update(System.Xml.XmlDocument,System.String,System.String,System.String)">
+ <summary>
+ Update a single field in all records in the specified path.
+ </summary>
+ <param name="doc">The XmlDocument whose node will be udpated.</param>
+ <param name="xpath">The xml path.</param>
+ <param name="field">The field name to update.</param>
+ <param name="val">The new value.</param>
+ <returns>The number of records affected.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to update an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Delete(System.Xml.XmlDocument,System.String)">
+ <summary>
+ Deletes all records of the specified path.
+ </summary>
+ <param name="xpath">The xml XPath query to get to the bottom node.</param>
+ <returns>The number of records deleted.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Delete(System.Xml.XmlDocument,System.String,System.String)">
+ <summary>
+ Deletes a field from all records on the specified path.
+ </summary>
+ <param name="path">The xml path.</param>
+ <param name="field">The field to delete.</param>
+ <returns>The number of records affected.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.QueryScalar(System.Xml.XmlDocument,System.String,System.String)">
+ <summary>
+ Return a single string representing the value of the specified field
+ for the first record encountered.
+ </summary>
+ <param name="xpath">The xml path.</param>
+ <param name="field">The desired field.</param>
+ <returns>A string with the field's value or null.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.Query(System.Xml.XmlDocument,System.String)">
+ <summary>
+ Returns a DataTable for all rows on the path.
+ </summary>
+ <param name="xpath">The xml path.</param>
+ <returns>The DataTable with the returned rows.
+ The row count will be 0 if no rows returned.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.QueryField(System.Xml.XmlDocument,System.String,System.String)">
+ <summary>
+ Returns an array of values for the specified field for all rows on
+ the path.
+ </summary>
+ <param name="xpath">The xml path.</param>
+ <param name="field">The desired field.</param>
+ <returns>The array of string values for each row qualified by the path.
+ A null is returned if the query results in 0 rows.</returns>
+ <exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+ <remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member>
+<member name="M:NewTemplate.XmlHelper.InsertNode(System.Xml.XmlNode,System.String[],System.Int32)">
+ <summary>
+ Inserts a node at the specified segment if it doesn't exist, otherwise
+ traverses the node.
+ </summary>
+ <param name="node">The current node.</param>
+ <param name="segments">The path segment list.</param>
+ <param name="idx">The current segment.</param>
+ <returns></returns>
+</member>
+<member name="M:NewTemplate.XmlHelper.CreateColumns(System.Data.DataTable,System.Xml.XmlNode)">
+ <summary>
+ Creates columns given an XmlNode.
+ </summary>
+ <param name="dt">The target DataTable.</param>
+ <param name="node">The source XmlNode.</param>
+</member>
+</members>
+</doc>
