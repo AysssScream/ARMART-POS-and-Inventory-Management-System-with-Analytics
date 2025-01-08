@@ -194,7 +194,6 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
 
 <br>
 <div align="center">
-  <!-- Decorative Separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -206,7 +205,6 @@ ARMART POS is a comprehensive Point of Sale and Inventory Management System with
 </div>
 
 
-<!-- Final Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
